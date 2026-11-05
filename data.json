@@ -1,0 +1,25 @@
+{
+    "chart_title": "Beach Cleanup Waste",
+    "data_points": [
+        {
+            "label": "Plastic Bottles",
+            "value": 8
+        },
+        {
+            "label": "Cigarettes",
+            "value": 225
+        },
+        {
+            "label": "Food Wrappers",
+            "value": 106
+        },
+        {
+            "label": "Microplastics",
+            "value": 52
+        },
+        {
+            "label": "Fishing Line",
+            "value": 25
+        }
+    ]
+}
